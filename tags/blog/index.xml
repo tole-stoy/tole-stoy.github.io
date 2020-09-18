@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on todfod.xyz</title>
+    <link>http://todfod.xyz/tags/blog/</link>
+    <description>Recent content in blog on todfod.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jul 2020 11:12:36 +0545</lastBuildDate>
+    
+	<atom:link href="http://todfod.xyz/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ramblings</title>
+      <link>http://todfod.xyz/posts/ramblings/</link>
+      <pubDate>Fri, 24 Jul 2020 11:12:36 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/posts/ramblings/</guid>
+      <description>&amp;ldquo;Intellectual ideas are hard by to come these days&amp;rdquo; is such a zoomer-centric take. At least in my sphere of aquaintainces, something similiar of an idea seems to be a prevailing one. It also happens that the group of aquaintainces I am talking about think of themselves as &amp;lsquo;the shit&amp;rsquo; as the expression goes. Almost everyone shit talks and trashes others which is quite funny. The jokes that come of these conversations are pretty great and never fail to amuse me.</description>
+    </item>
+    
+  </channel>
+</rss>
