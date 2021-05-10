@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://todfod.xyz/posts/blackout/</loc>
-    <lastmod>2021-05-07T21:11:38+05:45</lastmod>
+    <loc>http://todfod.xyz/posts/favourite-youtube/</loc>
+    <lastmod>2021-05-10T20:58:05+05:45</lastmod>
   </url><url>
     <loc>http://todfod.xyz/posts/</loc>
-    <lastmod>2021-05-07T21:11:38+05:45</lastmod>
+    <lastmod>2021-05-10T20:58:05+05:45</lastmod>
   </url><url>
     <loc>http://todfod.xyz/</loc>
+    <lastmod>2021-05-10T20:58:05+05:45</lastmod>
+  </url><url>
+    <loc>http://todfod.xyz/posts/blackout/</loc>
     <lastmod>2021-05-07T21:11:38+05:45</lastmod>
   </url><url>
     <loc>http://todfod.xyz/posts/yellow-light-is-better/</loc>
