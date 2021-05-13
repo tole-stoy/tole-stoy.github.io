@@ -6,7 +6,18 @@
     <description>Recent content on todfod.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 May 2021 20:58:05 +0545</lastBuildDate><atom:link href="http://todfod.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 19:34:19 +0545</lastBuildDate><atom:link href="http://todfod.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto Addresses</title>
+      <link>http://todfod.xyz/posts/crypto-addresses/</link>
+      <pubDate>Thu, 13 May 2021 19:34:19 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/posts/crypto-addresses/</guid>
+      <description>Time to fly to the moon. I know I am late to the party but here it goes if anyone wants to send me something for the blog.
+BTC : bc1qcwu9zlyxmq0dhfkh65nncfy4tgjxgp7rcsy27l
+XMR : 48g9PAavMpSf1WFbRs9jNGCj6BHShcTJSVZ8k2PH94iyBp89PCwDzWnNSbYiaqRfsiNhF5DmLZGWp4hANBB9gTHkEZWHgca</description>
+    </item>
+    
     <item>
       <title>Favourite Youtube</title>
       <link>http://todfod.xyz/posts/favourite-youtube/</link>
@@ -336,7 +347,10 @@ Watch The Sopranos</description>
       
       <guid>http://todfod.xyz/about/about/</guid>
       <description>I am Abhishek Kafle. I write this blog.
-Email : akafle848@gmail.com</description>
+Email : akafle848@gmail.com
+Crypto Addresses:
+BTC : bc1qcwu9zlyxmq0dhfkh65nncfy4tgjxgp7rcsy27l
+XMR : 48g9PAavMpSf1WFbRs9jNGCj6BHShcTJSVZ8k2PH94iyBp89PCwDzWnNSbYiaqRfsiNhF5DmLZGWp4hANBB9gTHkEZWHgca</description>
     </item>
     
   </channel>
