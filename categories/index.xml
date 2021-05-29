@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on todfod.xyz</title>
+    <title>Categories on Home Of Todfod</title>
     <link>http://todfod.xyz/categories/</link>
-    <description>Recent content in Categories on todfod.xyz</description>
+    <description>Recent content in Categories on Home Of Todfod</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://todfod.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021, todfod</copyright>
+    <lastBuildDate>Fri, 28 May 2021 16:28:31 +0545</lastBuildDate><atom:link href="http://todfod.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rage</title>
+      <link>http://todfod.xyz/categories/rage/</link>
+      <pubDate>Fri, 28 May 2021 16:28:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/categories/rage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://todfod.xyz/categories/music/</link>
+      <pubDate>Mon, 17 May 2021 14:59:34 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://todfod.xyz/categories/life/</link>
+      <pubDate>Mon, 17 May 2021 14:29:58 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>http://todfod.xyz/categories/business/</link>
+      <pubDate>Wed, 14 Apr 2021 21:56:08 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>http://todfod.xyz/categories/reading/</link>
+      <pubDate>Mon, 29 Mar 2021 19:03:45 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/categories/reading/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

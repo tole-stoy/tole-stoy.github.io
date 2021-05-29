@@ -1,18 +1,757 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on todfod.xyz</title>
+    <title>Tags on Home Of Todfod</title>
     <link>http://todfod.xyz/tags/</link>
-    <description>Recent content in Tags on todfod.xyz</description>
+    <description>Recent content in Tags on Home Of Todfod</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 21:19:24 +0545</lastBuildDate><atom:link href="http://todfod.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2021, todfod</copyright>
+    <lastBuildDate>Fri, 28 May 2021 16:28:31 +0545</lastBuildDate><atom:link href="http://todfod.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>art</title>
+      <link>http://todfod.xyz/tags/art/</link>
+      <pubDate>Fri, 28 May 2021 16:28:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>justice</title>
+      <link>http://todfod.xyz/tags/justice/</link>
+      <pubDate>Fri, 28 May 2021 16:28:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/justice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>http://todfod.xyz/tags/life/</link>
+      <pubDate>Fri, 28 May 2021 16:28:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rants</title>
+      <link>http://todfod.xyz/tags/rants/</link>
+      <pubDate>Fri, 28 May 2021 16:28:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/rants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>http://todfod.xyz/tags/thoughts/</link>
+      <pubDate>Fri, 28 May 2021 16:28:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>daughters</title>
+      <link>http://todfod.xyz/tags/daughters/</link>
+      <pubDate>Mon, 17 May 2021 14:59:34 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/daughters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metal</title>
+      <link>http://todfod.xyz/tags/metal/</link>
+      <pubDate>Mon, 17 May 2021 14:59:34 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>http://todfod.xyz/tags/music/</link>
+      <pubDate>Mon, 17 May 2021 14:59:34 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rock</title>
+      <link>http://todfod.xyz/tags/rock/</link>
+      <pubDate>Mon, 17 May 2021 14:59:34 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>http://todfod.xyz/tags/love/</link>
+      <pubDate>Mon, 17 May 2021 14:29:58 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>romance</title>
+      <link>http://todfod.xyz/tags/romance/</link>
+      <pubDate>Mon, 17 May 2021 14:29:58 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/romance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kathmandu</title>
+      <link>http://todfod.xyz/tags/kathmandu/</link>
+      <pubDate>Sun, 16 May 2021 18:51:11 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/kathmandu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychedelics</title>
+      <link>http://todfod.xyz/tags/psychedelics/</link>
+      <pubDate>Sun, 16 May 2021 18:51:11 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/psychedelics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trip</title>
+      <link>http://todfod.xyz/tags/trip/</link>
+      <pubDate>Sun, 16 May 2021 18:51:11 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/trip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exercise</title>
+      <link>http://todfod.xyz/tags/exercise/</link>
+      <pubDate>Sat, 15 May 2021 20:11:54 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tea</title>
+      <link>http://todfod.xyz/tags/tea/</link>
+      <pubDate>Sat, 15 May 2021 20:11:54 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/tea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tobacco</title>
+      <link>http://todfod.xyz/tags/tobacco/</link>
+      <pubDate>Sat, 15 May 2021 20:11:54 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/tobacco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crypto</title>
+      <link>http://todfod.xyz/tags/crypto/</link>
+      <pubDate>Thu, 13 May 2021 19:34:19 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>money</title>
+      <link>http://todfod.xyz/tags/money/</link>
+      <pubDate>Thu, 13 May 2021 19:34:19 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/money/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>content</title>
+      <link>http://todfod.xyz/tags/content/</link>
+      <pubDate>Mon, 10 May 2021 20:58:05 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>http://todfod.xyz/tags/youtube/</link>
+      <pubDate>Mon, 10 May 2021 20:58:05 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sadness</title>
+      <link>http://todfod.xyz/tags/sadness/</link>
+      <pubDate>Fri, 07 May 2021 21:11:38 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/sadness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>socialmedia</title>
+      <link>http://todfod.xyz/tags/socialmedia/</link>
+      <pubDate>Fri, 07 May 2021 21:11:38 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/socialmedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>update</title>
+      <link>http://todfod.xyz/tags/update/</link>
+      <pubDate>Fri, 07 May 2021 21:11:38 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fluorescent</title>
+      <link>http://todfod.xyz/tags/fluorescent/</link>
+      <pubDate>Wed, 28 Apr 2021 20:30:09 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/fluorescent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lights</title>
+      <link>http://todfod.xyz/tags/lights/</link>
+      <pubDate>Wed, 28 Apr 2021 20:30:09 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/lights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>white</title>
+      <link>http://todfod.xyz/tags/white/</link>
+      <pubDate>Wed, 28 Apr 2021 20:30:09 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yellow</title>
+      <link>http://todfod.xyz/tags/yellow/</link>
+      <pubDate>Wed, 28 Apr 2021 20:30:09 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/yellow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business</title>
+      <link>http://todfod.xyz/tags/business/</link>
+      <pubDate>Wed, 14 Apr 2021 21:56:08 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>running</title>
+      <link>http://todfod.xyz/tags/running/</link>
+      <pubDate>Wed, 14 Apr 2021 21:56:08 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/running/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gods</title>
+      <link>http://todfod.xyz/tags/gods/</link>
+      <pubDate>Sat, 10 Apr 2021 19:11:21 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/gods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reality</title>
+      <link>http://todfod.xyz/tags/reality/</link>
+      <pubDate>Sat, 10 Apr 2021 19:11:21 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>http://todfod.xyz/tags/simulation/</link>
+      <pubDate>Sat, 10 Apr 2021 19:11:21 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computers</title>
+      <link>http://todfod.xyz/tags/computers/</link>
+      <pubDate>Wed, 07 Apr 2021 19:02:56 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/computers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meditations</title>
+      <link>http://todfod.xyz/tags/meditations/</link>
+      <pubDate>Wed, 07 Apr 2021 19:02:56 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/meditations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skills</title>
+      <link>http://todfod.xyz/tags/skills/</link>
+      <pubDate>Wed, 07 Apr 2021 19:02:56 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>http://todfod.xyz/tags/time/</link>
+      <pubDate>Wed, 07 Apr 2021 19:02:56 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>melville</title>
+      <link>http://todfod.xyz/tags/melville/</link>
+      <pubDate>Mon, 29 Mar 2021 19:03:45 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/melville/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moby dick</title>
+      <link>http://todfod.xyz/tags/moby-dick/</link>
+      <pubDate>Mon, 29 Mar 2021 19:03:45 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/moby-dick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>http://todfod.xyz/tags/reading/</link>
+      <pubDate>Mon, 29 Mar 2021 19:03:45 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aurelius</title>
+      <link>http://todfod.xyz/tags/aurelius/</link>
+      <pubDate>Wed, 24 Mar 2021 18:57:57 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/aurelius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>http://todfod.xyz/tags/philosophy/</link>
+      <pubDate>Wed, 24 Mar 2021 18:57:57 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stoicism</title>
+      <link>http://todfod.xyz/tags/stoicism/</link>
+      <pubDate>Wed, 24 Mar 2021 18:57:57 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/stoicism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bob dylan</title>
+      <link>http://todfod.xyz/tags/bob-dylan/</link>
+      <pubDate>Sun, 21 Mar 2021 18:53:15 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/bob-dylan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feels</title>
+      <link>http://todfod.xyz/tags/feels/</link>
+      <pubDate>Sun, 21 Mar 2021 18:53:15 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/feels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>folk</title>
+      <link>http://todfod.xyz/tags/folk/</link>
+      <pubDate>Sun, 21 Mar 2021 18:53:15 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/folk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nazis</title>
+      <link>http://todfod.xyz/tags/nazis/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/nazis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wars</title>
+      <link>http://todfod.xyz/tags/wars/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/wars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>worldwartwo</title>
+      <link>http://todfod.xyz/tags/worldwartwo/</link>
+      <pubDate>Wed, 06 Jan 2021 18:26:31 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/worldwartwo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random thoughts</title>
+      <link>http://todfod.xyz/tags/random-thoughts/</link>
+      <pubDate>Wed, 06 Jan 2021 18:13:18 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/random-thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>saints</title>
+      <link>http://todfod.xyz/tags/saints/</link>
+      <pubDate>Wed, 06 Jan 2021 18:13:18 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/saints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>http://todfod.xyz/tags/updates/</link>
+      <pubDate>Wed, 06 Jan 2021 18:13:18 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nassim taleb</title>
+      <link>http://todfod.xyz/tags/nassim-taleb/</link>
+      <pubDate>Sat, 05 Dec 2020 18:45:55 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/nassim-taleb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>practicality</title>
+      <link>http://todfod.xyz/tags/practicality/</link>
+      <pubDate>Sat, 05 Dec 2020 18:45:55 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/practicality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>augustine</title>
+      <link>http://todfod.xyz/tags/augustine/</link>
+      <pubDate>Sun, 01 Nov 2020 17:40:14 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/augustine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>religion</title>
+      <link>http://todfod.xyz/tags/religion/</link>
+      <pubDate>Sun, 01 Nov 2020 17:40:14 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogo</title>
+      <link>http://todfod.xyz/tags/blogo/</link>
+      <pubDate>Wed, 07 Oct 2020 19:13:32 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/blogo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>people</title>
+      <link>http://todfod.xyz/tags/people/</link>
+      <pubDate>Sun, 20 Sep 2020 18:32:03 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>child</title>
+      <link>http://todfod.xyz/tags/child/</link>
+      <pubDate>Thu, 20 Aug 2020 21:32:40 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/child/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>habits</title>
+      <link>http://todfod.xyz/tags/habits/</link>
+      <pubDate>Thu, 20 Aug 2020 21:32:40 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nepal</title>
+      <link>http://todfod.xyz/tags/nepal/</link>
+      <pubDate>Thu, 20 Aug 2020 21:32:40 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/nepal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friends</title>
+      <link>http://todfod.xyz/tags/friends/</link>
+      <pubDate>Wed, 12 Aug 2020 20:20:53 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/friends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>http://todfod.xyz/tags/travel/</link>
+      <pubDate>Wed, 12 Aug 2020 20:20:53 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conspiracy</title>
+      <link>http://todfod.xyz/tags/conspiracy/</link>
+      <pubDate>Sat, 08 Aug 2020 14:26:07 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/conspiracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>http://todfod.xyz/tags/home/</link>
+      <pubDate>Sat, 08 Aug 2020 13:12:36 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jhapa</title>
+      <link>http://todfod.xyz/tags/jhapa/</link>
+      <pubDate>Sat, 08 Aug 2020 13:12:36 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/jhapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>places</title>
+      <link>http://todfod.xyz/tags/places/</link>
+      <pubDate>Sat, 08 Aug 2020 13:12:36 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/places/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elders</title>
+      <link>http://todfod.xyz/tags/elders/</link>
+      <pubDate>Wed, 05 Aug 2020 21:11:35 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/elders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memories</title>
+      <link>http://todfod.xyz/tags/memories/</link>
+      <pubDate>Wed, 05 Aug 2020 21:11:35 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/memories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>struggles</title>
+      <link>http://todfod.xyz/tags/struggles/</link>
+      <pubDate>Wed, 05 Aug 2020 21:03:05 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/struggles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nation</title>
+      <link>http://todfod.xyz/tags/nation/</link>
+      <pubDate>Mon, 03 Aug 2020 20:57:30 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/nation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consoom</title>
+      <link>http://todfod.xyz/tags/consoom/</link>
+      <pubDate>Mon, 03 Aug 2020 20:34:43 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/consoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product</title>
+      <link>http://todfod.xyz/tags/product/</link>
+      <pubDate>Mon, 03 Aug 2020 20:34:43 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>men</title>
+      <link>http://todfod.xyz/tags/men/</link>
+      <pubDate>Mon, 27 Jul 2020 21:19:24 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/men/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>http://todfod.xyz/tags/nature/</link>
+      <pubDate>Mon, 27 Jul 2020 21:19:24 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/nature/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>poems</title>
       <link>http://todfod.xyz/tags/poems/</link>
       <pubDate>Mon, 27 Jul 2020 21:19:24 +0545</pubDate>
       
       <guid>http://todfod.xyz/tags/poems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yeats</title>
+      <link>http://todfod.xyz/tags/yeats/</link>
+      <pubDate>Mon, 27 Jul 2020 21:19:24 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/yeats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neitzche</title>
+      <link>http://todfod.xyz/tags/neitzche/</link>
+      <pubDate>Mon, 27 Jul 2020 19:41:47 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/neitzche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>truth</title>
+      <link>http://todfod.xyz/tags/truth/</link>
+      <pubDate>Mon, 27 Jul 2020 19:24:29 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/truth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wisdom</title>
+      <link>http://todfod.xyz/tags/wisdom/</link>
+      <pubDate>Mon, 27 Jul 2020 19:24:29 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/wisdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quasimodo</title>
+      <link>http://todfod.xyz/tags/quasimodo/</link>
+      <pubDate>Sat, 25 Jul 2020 10:46:02 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/quasimodo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shows</title>
+      <link>http://todfod.xyz/tags/shows/</link>
+      <pubDate>Sat, 25 Jul 2020 10:46:02 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/shows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sopranos</title>
+      <link>http://todfod.xyz/tags/sopranos/</link>
+      <pubDate>Sat, 25 Jul 2020 10:46:02 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/tags/sopranos/</guid>
       <description></description>
     </item>
     

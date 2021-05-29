@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on todfod.xyz</title>
+    <title>Abouts on Home Of Todfod</title>
     <link>http://todfod.xyz/about/</link>
-    <description>Recent content in Abouts on todfod.xyz</description>
+    <description>Recent content in Abouts on Home Of Todfod</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2021, todfod</copyright>
     <lastBuildDate>Fri, 24 Jul 2020 09:13:01 +0545</lastBuildDate><atom:link href="http://todfod.xyz/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>

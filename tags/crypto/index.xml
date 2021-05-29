@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on Home Of Todfod</title>
+    <link>http://todfod.xyz/tags/crypto/</link>
+    <description>Recent content in crypto on Home Of Todfod</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021, todfod</copyright>
+    <lastBuildDate>Thu, 13 May 2021 19:34:19 +0545</lastBuildDate><atom:link href="http://todfod.xyz/tags/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crypto Addresses</title>
+      <link>http://todfod.xyz/posts/crypto-addresses/</link>
+      <pubDate>Thu, 13 May 2021 19:34:19 +0545</pubDate>
+      
+      <guid>http://todfod.xyz/posts/crypto-addresses/</guid>
+      <description>Time to fly to the moon. I know I am late to the party but here it goes if anyone wants to send me something for the blog.
+BTC : bc1qcwu9zlyxmq0dhfkh65nncfy4tgjxgp7rcsy27l
+XMR : 48g9PAavMpSf1WFbRs9jNGCj6BHShcTJSVZ8k2PH94iyBp89PCwDzWnNSbYiaqRfsiNhF5DmLZGWp4hANBB9gTHkEZWHgca</description>
+    </item>
+    
+  </channel>
+</rss>
