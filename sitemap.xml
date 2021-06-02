@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://todfod.xyz/</loc>
-    <lastmod>2021-06-02T19:58:19+05:45</lastmod>
+    <loc>http://todfod.xyz/tags/buereaucracy/</loc>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
   </url><url>
-    <loc>http://todfod.xyz/tags/life/</loc>
-    <lastmod>2021-06-02T19:58:19+05:45</lastmod>
+    <loc>http://todfod.xyz/categories/</loc>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
+  </url><url>
+    <loc>http://todfod.xyz/tags/corona/</loc>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
+  </url><url>
+    <loc>http://todfod.xyz/posts/covid-is-sciences-chernobyl/</loc>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
+  </url><url>
+    <loc>http://todfod.xyz/</loc>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
   </url><url>
     <loc>http://todfod.xyz/posts/</loc>
-    <lastmod>2021-06-02T19:58:19+05:45</lastmod>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
+  </url><url>
+    <loc>http://todfod.xyz/categories/red-pills/</loc>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
+  </url><url>
+    <loc>http://todfod.xyz/tags/science/</loc>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
   </url><url>
     <loc>http://todfod.xyz/tags/</loc>
+    <lastmod>2021-06-02T20:23:21+05:45</lastmod>
+  </url><url>
+    <loc>http://todfod.xyz/tags/life/</loc>
     <lastmod>2021-06-02T19:58:19+05:45</lastmod>
   </url><url>
     <loc>http://todfod.xyz/tags/todfod/</loc>
@@ -22,9 +40,6 @@
   </url><url>
     <loc>http://todfod.xyz/posts/year-one-of-todfod/</loc>
     <lastmod>2021-06-02T19:58:19+05:45</lastmod>
-  </url><url>
-    <loc>http://todfod.xyz/categories/</loc>
-    <lastmod>2021-05-31T21:27:54+05:45</lastmod>
   </url><url>
     <loc>http://todfod.xyz/tags/grandmother/</loc>
     <lastmod>2021-05-31T21:27:54+05:45</lastmod>
